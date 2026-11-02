@@ -53,8 +53,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YangFang1999/YangFang1999/main/assets/message-wall.svg?v=4" />
-  <img alt="留言墙" src="https://raw.githubusercontent.com/YangFang1999/YangFang1999/main/assets/message-wall.svg?v=4" width="760" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YangFang1999/YangFang1999/main/assets/message-wall.svg?v=5" />
+  <img alt="留言墙" src="https://raw.githubusercontent.com/YangFang1999/YangFang1999/main/assets/message-wall.svg?v=5" width="760" />
 </picture>
 
 </div>
