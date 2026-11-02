@@ -52,7 +52,10 @@
 
 <div align="center">
 
-<img src="assets/message-wall.svg?v=2" alt="留言墙" width="760" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YangFang1999/YangFang1999/main/assets/message-wall.svg?v=2" />
+  <img alt="留言墙" src="https://raw.githubusercontent.com/YangFang1999/YangFang1999/main/assets/message-wall.svg?v=2" width="760" />
+</picture>
 
 <sub>🍿 欢迎带好爆米花和可乐，随时入座</sub>
 
