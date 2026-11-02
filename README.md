@@ -48,13 +48,13 @@
   </a>
 </div>
 
-## 🎬 影院留言墙
+## 💬 留言墙
 
 <div align="center">
 
-<img src="assets/message-wall.svg" alt="影院留言墙" width="760" />
+<img src="assets/message-wall.svg" alt="留言墙" width="760" />
 
-<sub>🎞️ 带好爆米花和可乐，欢迎入座 —— 与我共享同一片银幕</sub>
+<sub>🍿 欢迎带好爆米花和可乐，随时入座</sub>
 
 </div>
 
