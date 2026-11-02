@@ -1,22 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="380" viewBox="0 0 800 380" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="330" viewBox="0 0 800 330" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif">
   <!-- 卡片 -->
-  <rect x="0.5" y="0.5" width="799" height="379" rx="14" fill="#fbfcfd" stroke="#e5e8ec"/>
-
-  <!-- 头部 -->
-  <rect x="70" y="48" width="8" height="8" rx="2" fill="#58a6ff"/>
-  <text x="90" y="59" font-size="20" font-weight="700" letter-spacing="2" fill="#1f2328">留言墙</text>
-  <text x="730" y="58" text-anchor="end" font-size="12" letter-spacing="3" fill="#b3bac4">MESSAGE WALL</text>
-  <line x1="70" y1="88" x2="730" y2="88" stroke="#eceef1"/>
+  <rect x="0.5" y="0.5" width="799" height="329" rx="14" fill="#fbfcfd" stroke="#e5e8ec"/>
 
   <!-- 引号 -->
-  <text x="66" y="152" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#e2e8f0">“</text>
+  <text x="66" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#e2e8f0">“</text>
 
   <!-- 留言 -->
-  <text x="86" y="202" font-size="16.5" fill="#4b5563">人死的瞬间就会进入电影院，手里拿着<tspan fill="#e8965a">爆米花</tspan>和<tspan fill="#dd6b5e">可乐</tspan>，</text>
-  <text x="86" y="236" font-size="16.5" fill="#4b5563">然后找自己的座位。坐到位子上之后就变暗了，</text>
-  <text x="86" y="270" font-size="16.5" fill="#4b5563">然后开始播放很多电影的预告，会有好多好多有意思的电影，</text>
-  <text x="86" y="312" font-size="18" font-weight="600" fill="#24292f">永远，永远地……</text>
+  <text x="86" y="162" font-size="16.5" fill="#4b5563">人死的瞬间就会进入电影院，手里拿着<tspan fill="#e8965a">爆米花</tspan>和<tspan fill="#dd6b5e">可乐</tspan>，</text>
+  <text x="86" y="196" font-size="16.5" fill="#4b5563">然后找自己的座位。坐到位子上之后就变暗了，</text>
+  <text x="86" y="230" font-size="16.5" fill="#4b5563">然后开始播放很多电影的预告，会有好多好多有意思的电影，</text>
+  <text x="86" y="272" font-size="18" font-weight="600" fill="#24292f">永远，永远地……</text>
 
   <!-- 署名 -->
-  <text x="730" y="352" text-anchor="end" font-size="13" fill="#a0a6b0">—— YangFang</text>
+  <text x="730" y="306" text-anchor="end" font-size="13" fill="#a0a6b0">—— 藤本タツキ</text>
 </svg>
