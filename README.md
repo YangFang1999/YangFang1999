@@ -2,7 +2,7 @@
 
 <!-- 打字动画标题 -->
 <a href="https://github.com/YangFang1999">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=45&lines=Hi%2C+I%27m+YangFang+%F0%9F%91%8B;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+YangFang;Java+%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85;%E4%BF%9D%E6%8C%81%E7%83%AD%E7%88%B1%EF%BC%8C%E5%A5%94%E8%B5%B4%E5%B1%B1%E6%B5%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=45&lines=Hi%2C+I%27m+YangFang+%F0%9F%91%8B;Java+%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85;%E4%BF%9D%E6%8C%81%E7%83%AD%E7%88%B1%EF%BC%8C%E5%A5%94%E8%B5%B4%E5%B1%B1%E6%B5%B7" alt="Typing SVG" />
 </a>
 
 <!-- 徽章 -->
@@ -40,16 +40,22 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YangFang1999/YangFang1999/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<div align="center">
-  <i>⬆️ 由 <a href="https://github.com/Platane/snk">Platane/snk</a> 每天自动生成 & 更新</i>
-</div>
-
 ## 🛠️ 技术栈
 
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,maven,git,typescript,vue,nodejs&perline=9" alt="Tech Stack" />
   </a>
+</div>
+
+## 🎬 影院留言墙
+
+<div align="center">
+
+<img src="assets/message-wall.svg" alt="影院留言墙" width="760" />
+
+<sub>🎞️ 带好爆米花和可乐，欢迎入座 —— 与我共享同一片银幕</sub>
+
 </div>
 
 ---
