@@ -18,6 +18,10 @@
 
 **Java 后端开发 | 终身学习者 | 保持热爱，奔赴山海**
 
+<a href="https://yangfang1999.github.io/">
+  <img alt="个人网站" src="https://img.shields.io/badge/%F0%9F%8C%90%20%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-58a6ff?style=for-the-badge" />
+</a>
+
 </div>
 
 ---
@@ -25,6 +29,10 @@
 ## 🐍 贡献贪吃蛇
 
 > 我的提交记录正在被这只小蛇一口一口吃掉～
+
+<div align="center">
+  <img alt="贪吃蛇最近更新" src="https://img.shields.io/github/last-commit/YangFang1999/YangFang1999/output?label=%F0%9F%90%8D%20%E8%B4%AA%E5%90%83%E8%9B%87%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0&color=58a6ff&style=flat-square" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YangFang1999/YangFang1999/output/github-contribution-grid-snake-dark.svg" />
@@ -36,45 +44,11 @@
   <i>⬆️ 由 <a href="https://github.com/Platane/snk">Platane/snk</a> 每天自动生成 & 更新</i>
 </div>
 
-## 📊 GitHub 数据统计
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YangFang1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangFang1999&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YangFang1999&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🛠️ 技术栈
 
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,maven,git,typescript,vue,nodejs&perline=9" alt="Tech Stack" />
-  </a>
-</div>
-
-## 🏆 GitHub 奖杯
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YangFang1999&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</div>
-
-## 📈 提交活跃度
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YangFang1999&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 📮 找到我
-
-<div align="center">
-  <a href="https://github.com/YangFang1999">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-YangFang1999-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://yangfang1999.github.io">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-个人网站-58a6ff?style=flat-square&logo=githubpages" />
   </a>
 </div>
 
